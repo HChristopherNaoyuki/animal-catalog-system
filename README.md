@@ -32,7 +32,7 @@ This application allows users to:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/animal-catalog-system.git
+   git clone https://github.com/HChristopherNaoyuki/animal-catalog-system.git
    cd animal-catalog-system
    ```
 
