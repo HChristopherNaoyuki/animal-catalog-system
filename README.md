@@ -58,8 +58,8 @@ Enter Bird Details:
 Enter Bird ID: 1
 Enter Bird Species: Parrot
 Enter Bird Color
-1: gray
-2: White,
+1: Gray
+2: White
 3: Black
 Enter Choice: 2
 
